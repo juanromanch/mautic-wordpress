@@ -72,7 +72,7 @@ function wpmautic_function() {
 </script>
 HTML;
 
-	echo esc_js( $javascript );
+	echo $javascript;
 }
 
 /**
